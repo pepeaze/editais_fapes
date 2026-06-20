@@ -1305,6 +1305,47 @@
   },
   {
     "categoria": "chamadas_internacionais",
+    "titulo": "CHAMADA MOBILITY CONFAP ITALY 2026",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada-MCI-–-MOBILITY-CONFAP-ITALY-2026.pdf",
+    "arquivo_local": "chamadas_internacionais/CHAMADA_MOBILITY_CONFAP_ITALY_2026.pdf",
+    "pdf_sha256": "224b334fd2df5443db423be4fac90686ae52b9d80a86ff107691fd96a9a5c7c7",
+    "alteracoes": [],
+    "extracao": {
+      "objetivo": "O edital MOBILITY CONFAP ITALY CALL 2026 visa apoiar pesquisadores do Brasil, vinculados a instituições de ensino superior e pesquisa brasileiras, que desejam desenvolver atividades de pesquisa na Itália em colaboração com colegas locais. O objetivo é facilitar e apoiar a colaboração científica, tecnológica e de inovação por meio da mobilidade de estudantes de doutorado, mestrado e pós-doutorado. O suporte é oferecido na forma de bolsas de estudo para fortalecer grupos de pesquisa brasileiros através de colaborações e visitas a grupos de pesquisa na Itália, parte da rede MCI.",
+      "publico_alvo": "Pesquisadores de doutorado, mestrado e pós-doutorado vinculados a universidades e instituições de pesquisa nos Estados brasileiros participantes, que possuam um supervisor associado a uma universidade italiana parte da rede MCI.",
+      "valor_total": null,
+      "valor_por_proposta": null,
+      "contato": "internacional.confap@gmail.com",
+      "cronograma": [
+        {
+          "evento": "Lançamento do edital",
+          "data_inicio": "2026-06-10",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Submissão de propostas",
+          "data_inicio": null,
+          "data_fim": "2026-09-04",
+          "observacao": "Até as 11:59 (horário de Brasília) via https://sistema.confap.org.br. Proponentes devem verificar com suas FAPs sobre submissão em plataformas próprias.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado final",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Mês de Outubro de 2026",
+          "acao_do_proponente": false
+        }
+      ],
+      "observacoes_gerais": "As FAPs participantes podem exigir critérios de elegibilidade adicionais e definir as modalidades de apoio, incluindo os valores das bolsas mensais, em suas próprias diretrizes ou orientações, devendo ser consultadas pelos candidatos antes da preparação da proposta. Não serão cobradas taxas de matrícula por nenhuma das partes para qualquer mobilidade de intercâmbio. Em caso de mobilidade no âmbito de projetos com potencial valor comercial e direitos de propriedade intelectual, as instituições anfitriãs e de envio deverão assinar um acordo de colaboração específico. As propostas devem incluir: projeto de pesquisa, Curriculum Vitae do candidato (Brasil), Curriculum Vitae do supervisor (Itália) e carta de apoio do supervisor na universidade italiana. As FAPs podem solicitar documentos adicionais. As vagas e oportunidades de pesquisa nas universidades italianas da rede MCI estão disponíveis em https://site.unibo.it/mobility-confap-italy/en/research-opportunity-offers-in-italy. Detalhes da rede MCI italiana em https://site.unibo.it/mobility-confap-italy/en/mci-program/network-of-italian-university. As FAPs associadas a esta chamada são: Alagoas - FAPEAL, Amazonas - FAPEAM, Bahia - FAPESB, Ceará - FUNCAP, Espírito Santo – FAPES, Goiás - FAPEG, Maranhão - FAPEMA, Pará - FAPESPA, Paraná - Fundação Araucária, Pernambuco – FACEPE, Rio Grande do Sul - FAPERGS, Santa Catarina - FAPESC. Outras FAPs podem confirmar sua participação.",
+      "_pdf_sha256": "224b334fd2df5443db423be4fac90686ae52b9d80a86ff107691fd96a9a5c7c7",
+      "_alteracoes_sha256": []
+    }
+  },
+  {
+    "categoria": "chamadas_internacionais",
     "titulo": "CHAMADA ERC-CONFAP 2026",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada-ERC-CONFAP-2026.pdf",
     "arquivo_local": "chamadas_internacionais/CHAMADA_ERC-CONFAP_2026.pdf",

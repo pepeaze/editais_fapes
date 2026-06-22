@@ -191,7 +191,7 @@
   {
     "categoria": "chamadas_internacionais",
     "url": "https://fapes.es.gov.br/chamadas-internacionais",
-    "total": 6,
+    "total": 3,
     "editais": [
       {
         "titulo": "CHAMADA MOBILITY CONFAP ITALY 2026",
@@ -264,52 +264,6 @@
         ],
         "arquivo_local": "chamadas_internacionais/CHAMADA_HORIZON_EUROPE.pdf",
         "pdf_sha256": "b9af85ece65aaff8542f6d41e97b75a5615557f7dda9fac756ac0ee0d5e66080",
-        "status": "novo"
-      },
-      {
-        "titulo": "CHAMADA CONFAP & WATER4ALL",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_Water4All_2025%20-%20Water4ALL.pdf",
-        "alteracoes": [],
-        "anexos": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Water4All_2025JTC_Call_Announcement_draft-0062025%20Third%20version.pdf",
-            "titulo": "CHAMADA WATER4ALL 2025"
-          }
-        ],
-        "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_&_WATER4ALL.pdf",
-        "pdf_sha256": "308e24a152f3bd689ac1e540a1d00a2ecbdfe7015db1c1fb01992a2614ba2315",
-        "status": "novo"
-      },
-      {
-        "titulo": "3ª CHAMADA TRANSACIONAL CONJUNTA - PARCERIA ECONOMIA AZUL SUSTENTÁVEL",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/SBEP%20Call%20text%202025.pdf",
-        "alteracoes": [],
-        "anexos": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada_EAS_2025.pdf",
-            "titulo": "DIRETRIZES DA FAPES"
-          }
-        ],
-        "arquivo_local": "chamadas_internacionais/3a_CHAMADA_TRANSACIONAL_CONJUNTA_-_PARCERIA_ECONOMIA_AZUL_SUSTENTÁVEL.pdf",
-        "pdf_sha256": "aeb3f5bd29effedd2752b7f54544f9165e6e3231d1643adf527c28cb5a4e7f3d",
-        "status": "novo"
-      },
-      {
-        "titulo": "CHAMADA CONFAP BRASIL–ILLINOIS 2026",
-        "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Cooperative%20Program%20-U%20of%20I%20and%20Confap%20v%205%2024-03.docx.pdf",
-        "alteracoes": [],
-        "anexos": [
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes_Chamada%20Internacional_CONFAP-Brasillinois%202026.pdf",
-            "titulo": "DIRETRIZES DA FAPES"
-          },
-          {
-            "url": "https://fapes.es.gov.br/Media/fapes/Editais/Termo_de_Adesão_CONFAP-Brasillinois%202026-ASSINADO.pdf",
-            "titulo": "TERMO DE ADESÃO"
-          }
-        ],
-        "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_BRASIL–ILLINOIS_2026.pdf",
-        "pdf_sha256": "dca97bcd47c4ff388842a427fdcd196d9c1eff873ff906a8e84084ba6aad9175",
         "status": "novo"
       }
     ]

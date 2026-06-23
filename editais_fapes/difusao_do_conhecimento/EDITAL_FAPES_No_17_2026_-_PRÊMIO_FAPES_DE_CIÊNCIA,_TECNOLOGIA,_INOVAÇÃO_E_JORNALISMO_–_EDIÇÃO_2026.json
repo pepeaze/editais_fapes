@@ -1,0 +1,82 @@
+{
+  "objetivo": "Reconhecer e premiar projetos de destaque e trajetórias profissionais nas áreas de pesquisa, extensão e inovação, além de matérias jornalísticas relacionadas à Fapes ou a projetos por ela fomentados, visando valorizar a ciência, tecnologia e inovação e ampliar sua divulgação no Espírito Santo.",
+  "publico_alvo": "Pesquisadores, extensionistas e empreendedores vinculados a projetos contratados pela Fapes (executados entre 01/01/2019 e 31/12/2025), e profissionais de jornalismo residentes no Espírito Santo, autores de matérias relacionadas à Fapes ou a projetos por ela fomentados.",
+  "valor_total": "R$ 308.000,00",
+  "valor_por_proposta": "R$ 12.000,00",
+  "contato": "editais.duvidas@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Publicação do edital",
+      "data_inicio": "2026-06-22",
+      "data_fim": "2026-06-22",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Envio das inscrições - Categorias Projetos e Destaque",
+      "data_inicio": "2026-06-22",
+      "data_fim": "2026-07-24",
+      "observacao": "Até as 17h59, via SigFapes",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Envio das inscrições - Categoria Jornalismo",
+      "data_inicio": "2026-06-22",
+      "data_fim": "2026-09-15",
+      "observacao": "Até as 17h59, via SigFapes",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar de habilitação e análise por avaliadores ad hoc",
+      "data_inicio": "2026-10-08",
+      "data_fim": null,
+      "observacao": "A partir de",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Interposição de recursos administrativos",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Até 5 (cinco) dias úteis após a publicação dos resultados preliminares no DIO-ES, via E-Flow",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final de habilitação e análise por avaliadores ad hoc",
+      "data_inicio": "2026-10-26",
+      "data_fim": null,
+      "observacao": "A partir de",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Votação pelo Comitê de Especialistas - Categorias Projetos e Destaque",
+      "data_inicio": "2026-11-03",
+      "data_fim": "2026-11-09",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Votação popular - Categoria Jornalismo",
+      "data_inicio": "2026-11-03",
+      "data_fim": "2026-11-09",
+      "observacao": "No site da Fapes, uma única vez por subcategoria",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final da seleção",
+      "data_inicio": "2026-12-07",
+      "data_fim": null,
+      "observacao": "A partir de",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Solicitação de pagamento da premiação",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Prazo máximo de 90 (noventa) dias, contados da data de publicação do resultado final no DIO-ES, mediante abertura de processo eletrônico no sistema E-Flow, via E-Docs",
+      "acao_do_proponente": true
+    }
+  ],
+  "observacoes_gerais": "Não podem participar servidores da Fapes, membros do CCAF, cônjuges, companheiros e parentes até o segundo grau. É permitida apenas uma inscrição por pessoa. Os valores das premiações são brutos e sujeitos a IRRF, tendo caráter honorífico e não gerando vínculo empregatício. Solicitações de acessibilidade devem ser feitas com 10 dias de antecedência do prazo final de inscrição. O comparecimento à cerimônia de premiação é obrigatório, ou indicação de representante. Para a categoria Jornalismo, a matéria deve ter sido veiculada entre 01/09/2025 e 15/09/2026.",
+  "_pdf_sha256": "0643c9142d2bca25c41fb128b31795f0a46a62031b2f0717ada035b460f7ed7f",
+  "_alteracoes_sha256": []
+}

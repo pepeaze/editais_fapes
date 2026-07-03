@@ -1,9 +1,9 @@
 {
-  "objetivo": "Este edital visa estimular o empreendedorismo e a inovação nas microrregiões Caparaó, Centro-Oeste, Central Sul, Noroeste, Rio Doce e Sudoeste Serrana, no Espírito Santo. Ele oferece apoio técnico e financeiro para soluções inovadoras com potencial de se tornarem negócios ou startups, incentivando a criação de novos negócios de base tecnológica e fortalecendo os ecossistemas locais de inovação para o desenvolvimento sustentável.",
-  "publico_alvo": "Pessoas físicas com 18 anos ou mais que morem, estudem ou trabalhem em uma das seis microrregiões contempladas pelo edital (Caparaó, Centro-Oeste, Central-Sul, Noroeste, Rio Doce e Sudoeste Serrana) e que necessitem de apoio técnico e financeiro para desenvolver suas ideias.",
+  "objetivo": "O presente edital tem como objetivo geral estimular o empreendedorismo e a inovação nas microrregiões Caparaó, Centro-Oeste, Central Sul, Noroeste, Rio Doce e Sudoeste Serrana. Isso será feito por meio de apoio técnico e financeiro a soluções inovadoras com potencial para se transformarem em negócios ou startups, incentivando a criação de novos negócios de base tecnológica e fortalecendo os ecossistemas locais de inovação. O edital visa estimular a criação, formalização e fortalecimento de negócios, promovendo a inovação e o empreendedorismo como estratégias para o desenvolvimento sustentável.",
+  "publico_alvo": "Pessoas físicas com 18 anos ou mais que morem, estudem ou trabalhem em uma das seis microrregiões contempladas pelo edital (Caparaó, Centro-Oeste, Central Sul, Noroeste, Rio Doce e Sudoeste Serrana) e que necessitem de apoio técnico e financeiro para desenvolver suas ideias.",
   "valor_total": "R$ 4.500.000,00",
   "valor_por_proposta": "R$ 30.000,00",
-  "contato": "duvidas.inovacao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br",
+  "contato": "duvidas.inovacao@fapes.es.gov.br, comunicacao@fapes.es.gov.br, (27) 3636-1850, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br",
   "cronograma": [
     {
       "evento": "Publicação do edital",
@@ -13,9 +13,16 @@
       "acao_do_proponente": false
     },
     {
-      "evento": "Envio da primeira proposta (Fase 1)",
+      "evento": "Prazo para impugnação do edital",
       "data_inicio": "2026-05-21",
-      "data_fim": "2026-06-30",
+      "data_fim": "2026-06-26",
+      "observacao": "Até 5 dias úteis anteriores ao encerramento do prazo de envio das propostas",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Envio da primeira proposta",
+      "data_inicio": "2026-05-21",
+      "data_fim": "2026-07-03",
       "observacao": "até as 17h59",
       "acao_do_proponente": true
     },
@@ -48,7 +55,7 @@
       "acao_do_proponente": false
     },
     {
-      "evento": "Envio da segunda proposta (Fase 2)",
+      "evento": "Envio da segunda proposta após a 1ª oficina e capacitação",
       "data_inicio": "2026-09-14",
       "data_fim": "2026-09-22",
       "observacao": "até as 17h59",
@@ -58,7 +65,7 @@
       "evento": "Apresentação do pitch",
       "data_inicio": "2026-09-21",
       "data_fim": "2026-09-30",
-      "observacao": "A partir de 21/09/2026",
+      "observacao": null,
       "acao_do_proponente": true
     },
     {
@@ -100,11 +107,17 @@
       "evento": "Início da execução dos projetos",
       "data_inicio": "2027-02-01",
       "data_fim": null,
-      "observacao": null,
+      "observacao": "A partir de 01/02/2027",
       "acao_do_proponente": false
     }
   ],
-  "observacoes_gerais": "O edital será executado em duas fases. Na Fase 1, serão selecionadas 80 propostas de cada microrregião. Na Fase 2, serão selecionadas 25 propostas ou mais por microrregião. O valor total do edital de R$ 4.500.000,00 será distribuído entre as 6 microrregiões, com até R$ 750.000,00 para cada, visando financiar 25 projetos ou mais por microrregião. A participação em no mínimo 80% das oficinas e mentorias é obrigatória para o proponente ou membros da equipe, sob pena de desclassificação. Proponentes podem submeter mais de uma proposta na Fase 1, mas apenas a de maior nota avançará para a Fase 2. Propostas com nota final inferior a 70,0 serão desclassificadas. A Fapes pode alterar as datas e prazos do cronograma.",
+  "observacoes_gerais": "Serão selecionadas 80 propostas de cada microrregião na Fase 1. Serão selecionadas 25 propostas ou mais por microrregião na Fase 2. A Fapes pode alterar as datas e os prazos definidos no cronograma por necessidade ou decisão institucional, podendo reabrir o prazo para recebimento de propostas em casos de força maior ou falhas comprovadas. O proponente poderá submeter mais de uma proposta na Fase 1, mas apenas a de maior nota será selecionada para a Fase 2, caso haja múltiplas propostas classificadas. Propostas com Nota Final inferior a 70,0 pontos serão desclassificadas em ambas as fases.",
   "_pdf_sha256": "91f37ac6ac440170364e589b9f01d452d77cab755a3f3b81f758f569c38e8749",
-  "_alteracoes_sha256": []
+  "_alteracoes_sha256": [
+    {
+      "url": "https://fapes.es.gov.br/Media/fapes/Editais/Gênesis%20-%20Assinado.pdf",
+      "titulo": "EDITAL FAPES N° 11/2026 – PROGRAMA GÊNESIS (1ª ALTERAÇÃO)",
+      "sha256": "e57a7e0dbda077c5636ef3deccb0397a5e3aeea4ac9ec9968ae88824fe265ae3"
+    }
+  ]
 }

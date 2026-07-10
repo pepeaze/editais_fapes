@@ -395,6 +395,145 @@
   },
   {
     "categoria": "difusao_do_conhecimento",
+    "titulo": "EDITAL FAPES Nº 04/2026 - ESTÁGIO TÉCNICO-CIENTÍFICO",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_04_2026_-_Estágio_Técnico_Cientifico.pdf",
+    "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_04_2026_-_ESTÁGIO_TÉCNICO-CIENTÍFICO.pdf",
+    "pdf_sha256": "7052905cad3fe12be74f8fb0a6ace861247edb7313ce8c9c2ed5621f00ffb207",
+    "alteracoes": [],
+    "extracao": {
+      "objetivo": "Selecionar propostas para concessão de auxílio financeiro para estágios técnico-científicos em laboratórios ou centros de PD&I, no Brasil ou exterior. O objetivo é aprimorar técnicas, adquirir conhecimentos específicos para projetos de PD&I no Espírito Santo, estimular o intercâmbio de conhecimentos, a formação de pós-graduandos e apoiar os Programas de Pós-graduação do estado.",
+      "publico_alvo": "Pesquisadores com título de doutor ou mestre, com vínculo ativo celetista ou estatutário em IES/P públicas ou privadas localizadas no Espírito Santo; e alunos regularmente matriculados em cursos de Mestrado ou Doutorado de IES/P localizadas no Espírito Santo, reconhecidos pela CAPES/CNE/MEC.",
+      "valor_total": "R$ 2.000.000,00",
+      "valor_por_proposta": null,
+      "contato": "editais.duvidas@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br, geped@fapes.es.gov.br",
+      "cronograma": [
+        {
+          "evento": "Publicação do Edital",
+          "data_inicio": "2026-02-06",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para impugnação do edital",
+          "data_inicio": null,
+          "data_fim": "2026-03-05",
+          "observacao": "Até 5 dias úteis antes do prazo final de submissão da 1ª chamada.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "1ª Chamada - Período de submissão de propostas",
+          "data_inicio": "2026-02-09",
+          "data_fim": "2026-03-12",
+          "observacao": "Para estágios com início entre 01/05/2026 a 31/07/2026, até as 17h59.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "1ª Chamada - Prazo para envio de dúvidas",
+          "data_inicio": null,
+          "data_fim": "2026-03-10",
+          "observacao": "Até 2 dias antes do prazo final de submissão.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "2ª Chamada - Período de submissão de propostas",
+          "data_inicio": "2026-03-17",
+          "data_fim": "2026-04-24",
+          "observacao": "Para estágios com início entre 01/08/2026 a 31/12/2026.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "1ª Chamada - Divulgação do resultado preliminar",
+          "data_inicio": "2026-03-19",
+          "data_fim": null,
+          "observacao": "A partir de.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "1ª Chamada - Prazo para interposição de recursos",
+          "data_inicio": "2026-03-20",
+          "data_fim": "2026-03-26",
+          "observacao": "5 dias úteis após a publicação do resultado preliminar.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "1ª Chamada - Divulgação do resultado final",
+          "data_inicio": "2026-03-31",
+          "data_fim": null,
+          "observacao": "A partir de.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "2ª Chamada - Prazo para envio de dúvidas",
+          "data_inicio": null,
+          "data_fim": "2026-04-22",
+          "observacao": "Até 2 dias antes do prazo final de submissão.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "2ª Chamada - Divulgação do resultado preliminar",
+          "data_inicio": "2026-05-22",
+          "data_fim": null,
+          "observacao": "A partir de.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "2ª Chamada - Prazo para interposição de recursos",
+          "data_inicio": "2026-05-23",
+          "data_fim": "2026-05-29",
+          "observacao": "5 dias úteis após a publicação do resultado preliminar.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "2ª Chamada - Divulgação do resultado final",
+          "data_inicio": "2026-06-19",
+          "data_fim": null,
+          "observacao": "A partir de.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "3ª Chamada - Período de submissão de propostas",
+          "data_inicio": "2026-07-01",
+          "data_fim": "2026-08-20",
+          "observacao": "Para estágios com início entre 04/01/2027 a 30/04/2027.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "3ª Chamada - Prazo para envio de dúvidas",
+          "data_inicio": null,
+          "data_fim": "2026-08-18",
+          "observacao": "Até 2 dias antes do prazo final de submissão.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "3ª Chamada - Divulgação do resultado preliminar",
+          "data_inicio": "2026-10-02",
+          "data_fim": null,
+          "observacao": "A partir de.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "3ª Chamada - Prazo para interposição de recursos",
+          "data_inicio": "2026-10-03",
+          "data_fim": "2026-10-09",
+          "observacao": "5 dias úteis após a publicação do resultado preliminar.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "3ª Chamada - Divulgação do resultado final",
+          "data_inicio": "2026-10-26",
+          "data_fim": null,
+          "observacao": "A partir de.",
+          "acao_do_proponente": false
+        }
+      ],
+      "observacoes_gerais": "O valor por proposta varia conforme o nível (duração do estágio) e a localização (Brasil - Região Sudeste, Brasil - Demais Estados, Exterior - América Central e do Sul, Exterior - América do Norte, Exterior - Demais Continentes), conforme tabela na seção 6.4 e 6.5 do edital. A Fapes pode alterar as datas e prazos do cronograma, reabrir prazos em casos de força maior ou falhas de sistema, e dará publicidade a essas alterações. Recursos financeiros não utilizados em uma chamada podem ser aplicados em chamadas subsequentes. O beneficiário não poderá utilizar outros recursos da Fapes para cobrir despesas do estágio se o auxílio concedido for insuficiente. Auxílios em moeda estrangeira serão convertidos com base no câmbio oficial na data de aprovação. Cada proponente pode apresentar apenas uma proposta por chamada; em caso de múltiplas submissões, apenas a última será considerada. Não é permitida a contratação concomitante de estágio técnico-científico e visita técnico-científica para o mesmo período/chamada. O edital pode ser revogado ou anulado sem direito a indenização. Casos omissos e dúvidas de interpretação serão dirimidos pela Diretoria Executiva da Fapes.",
+      "_pdf_sha256": "7052905cad3fe12be74f8fb0a6ace861247edb7313ce8c9c2ed5621f00ffb207",
+      "_alteracoes_sha256": []
+    }
+  },
+  {
+    "categoria": "difusao_do_conhecimento",
     "titulo": "EDITAL FAPES Nº 05/2026 - VISITA TÉCNICO-CIENTÍFICA",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Fapes%2005_2026%20-%20Visita%20Técnico%20Cientifica%20(1).pdf",
     "arquivo_local": "difusao_do_conhecimento/EDITAL_FAPES_No_05_2026_-_VISITA_TÉCNICO-CIENTÍFICA.pdf",
@@ -1608,6 +1747,47 @@
       ],
       "observacoes_gerais": "Os projetos devem ser inovadores, agregar valor e resultar em publicações científicas conjuntas. O prazo de vigência máximo para cada projeto é de 24 meses. O apoio financeiro da Fapes destina-se exclusivamente a despesas de mobilidade, excluindo bolsas. Cada proponente pode submeter apenas uma proposta; em caso de múltiplas submissões, apenas a última será considerada. As propostas devem ser submetidas utilizando o modelo do Anexo I (Application Form Template) em ambas as plataformas (CONFAP).",
       "_pdf_sha256": "6d2df8a40e4070802437afc283186b627b6f35a1290d3bfa103d190c3ffcbd9c",
+      "_alteracoes_sha256": []
+    }
+  },
+  {
+    "categoria": "chamadas_internacionais",
+    "titulo": "CHAMADA CONFAP & DAAD 2026",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Diretrizes%20-%20FAPES%202026-1.pdf",
+    "arquivo_local": "chamadas_internacionais/CHAMADA_CONFAP_&_DAAD_2026.pdf",
+    "pdf_sha256": "922f0a8cfe70b78afdba4eca3d45f0558234a1181364b5a9594ffa5510b9a31b",
+    "alteracoes": [],
+    "extracao": {
+      "objetivo": "Apoiar a manutenção de bolsas de doutorado da FAPES para bolsistas que forem selecionados pelo Serviço Alemão de Intercâmbio Acadêmico (DAAD). O suporte visa permitir que esses bolsistas realizem suas pesquisas em instituições na Alemanha, no âmbito da Chamada DAAD 2026.",
+      "publico_alvo": "Bolsistas de doutorado da FAPES que forem selecionados pelo DAAD, que estejam adimplentes junto à FAPES e que não estejam no primeiro nem no último ano do doutorado.",
+      "valor_total": null,
+      "valor_por_proposta": null,
+      "contato": "internacional.confap@gmail.com, global4@fapes.es.gov.br",
+      "cronograma": [
+        {
+          "evento": "Submissão de propostas",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "As propostas deverão ser submetidas na Plataforma do DAAD, conforme item 3.1.",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Seleção pelo DAAD",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Os proponentes devem ser selecionados pelo DAAD, conforme item 2.1 e 3.2.",
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Controle de elegibilidade pela FAPES",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Para as propostas selecionadas pelo DAAD, a FAPES realizará o controle de elegibilidade conforme item 2 e 3.2.",
+          "acao_do_proponente": false
+        }
+      ],
+      "observacoes_gerais": "Este documento apresenta as diretrizes específicas da FAPES para a Chamada DAAD 2026, complementando o edital completo disponível no site do CONFAP.",
+      "_pdf_sha256": "922f0a8cfe70b78afdba4eca3d45f0558234a1181364b5a9594ffa5510b9a31b",
       "_alteracoes_sha256": []
     }
   },

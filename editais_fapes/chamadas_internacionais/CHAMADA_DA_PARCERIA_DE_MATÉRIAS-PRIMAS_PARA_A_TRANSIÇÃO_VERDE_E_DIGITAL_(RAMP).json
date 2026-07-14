@@ -1,0 +1,138 @@
+{
+  "objetivo": "Este edital visa financiar projetos transnacionais de pesquisa e inovação em matérias-primas para a transição verde e digital. Os projetos devem focar em melhorar o acesso a matérias-primas, promover práticas de economia circular, alcançar a sustentabilidade e minimizar custos sociais e ambientais, agregando valor e contribuindo para o desenvolvimento industrial.",
+  "publico_alvo": "Organizações de ensino superior e centros de pesquisa públicos. Os consórcios devem ser compostos por, no mínimo, três parceiros de três países diferentes (sendo pelo menos dois da UE ou países associados).",
+  "valor_total": null,
+  "valor_por_proposta": "EUR 100.000,00",
+  "contato": "internacional.confap@gmail.com, global4@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Lançamento do edital",
+      "data_inicio": "2026-06-23",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Webinar informativo",
+      "data_inicio": "2026-07-02",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo final para submissão de pré-propostas",
+      "data_inicio": "2026-09-22",
+      "data_fim": null,
+      "observacao": "Até as 15:00 CEST",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Submissão de propostas nacionais FAPES (Etapa 1)",
+      "data_inicio": "2026-09-22",
+      "data_fim": null,
+      "observacao": "Recomendado verificar requisitos da FAPES para submissão na plataforma nacional, prazo idêntico ao da submissão da pré-proposta internacional.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação dos resultados de elegibilidade (Etapa 1)",
+      "data_inicio": "2026-10-05",
+      "data_fim": null,
+      "observacao": "Data aproximada, 'Início de Outubro 2026'",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Período para interposição de recursos (elegibilidade Etapa 1)",
+      "data_inicio": "2026-10-06",
+      "data_fim": "2026-10-15",
+      "observacao": "Janela de 10 dias após a divulgação dos resultados de elegibilidade da Etapa 1",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação dos resultados (avaliação e seleção Etapa 1)",
+      "data_inicio": "2026-12-15",
+      "data_fim": null,
+      "observacao": "Data aproximada, 'Meados de Dezembro 2026'",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Período para interposição de recursos (resultados Etapa 1)",
+      "data_inicio": "2026-12-16",
+      "data_fim": "2026-12-25",
+      "observacao": "Janela de 10 dias após a divulgação dos resultados da Etapa 1",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Convite para a Etapa 2",
+      "data_inicio": "2026-12-28",
+      "data_fim": null,
+      "observacao": "Data aproximada, 'Final de Dezembro 2026'",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Solicitações (e aprovação) de mudanças entre as etapas 1 e 2",
+      "data_inicio": "2027-01-31",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Prazo final para submissão de propostas completas",
+      "data_inicio": "2027-02-15",
+      "data_fim": null,
+      "observacao": "Até as 15:00 CET",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Submissão de propostas nacionais FAPES (Etapa 2)",
+      "data_inicio": "2027-02-15",
+      "data_fim": null,
+      "observacao": "Recomendado verificar requisitos da FAPES para submissão na plataforma nacional, prazo idêntico ao da submissão da proposta completa internacional.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação dos resultados de elegibilidade (Etapa 2)",
+      "data_inicio": "2027-03-05",
+      "data_fim": null,
+      "observacao": "Data aproximada, 'Início de Março 2027'",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Período para interposição de recursos (elegibilidade Etapa 2)",
+      "data_inicio": "2027-03-06",
+      "data_fim": "2027-03-15",
+      "observacao": "Janela de 10 dias após a divulgação dos resultados de elegibilidade da Etapa 2",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação dos resultados (avaliação e seleção Etapa 2)",
+      "data_inicio": "2027-05-15",
+      "data_fim": null,
+      "observacao": "Data aproximada, 'Meados de Maio 2027'",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Período para interposição de recursos (resultados Etapa 2)",
+      "data_inicio": "2027-05-16",
+      "data_fim": "2027-05-25",
+      "observacao": "Janela de 10 dias após a divulgação dos resultados da Etapa 2",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Comunicação das decisões de financiamento",
+      "data_inicio": "2027-05-28",
+      "data_fim": null,
+      "observacao": "Data aproximada, 'Final de Maio/Início de Junho 2027'",
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Negociações de contrato nacional/regional / Início dos projetos (esperado)",
+      "data_inicio": "2027-06-01",
+      "data_fim": "2027-09-30",
+      "observacao": null,
+      "acao_do_proponente": true
+    }
+  ],
+  "observacoes_gerais": "O edital é um Joint Transnational Call (JTC) 2026 da Parceria Europeia em Matérias-Primas para a Transição Verde e Digital (RAMP). A FAPES (Fundação de Amparo à Pesquisa e Inovação do Espírito Santo) participa sob o guarda-chuva do CONFAP. Cada parceiro de projeto é financiado diretamente por sua respectiva agência nacional/regional. A Comissão Europeia cofinancia os JTCs da RAMP, com o cofinanciamento sendo redistribuído pelas agências financiadoras aos seus beneficiários. A duração máxima dos projetos é de 36 meses. Propostas devem se enquadrar em um dos seis tópicos temáticos e adotar princípios de 'Safe and Sustainable by Design'. Conforme a tabela de elegibilidade de parceiros do CONFAP, empresas (SMEs e grandes) e entidades sem fins lucrativos (ONGs, associações, sociedades, fundações) não são elegíveis para financiamento pela FAPES.",
+  "_pdf_sha256": "a4c6eeabdb06e23d5b8d920ac882d345df0feea4c3b77665a97f8606e11b823c",
+  "_alteracoes_sha256": []
+}

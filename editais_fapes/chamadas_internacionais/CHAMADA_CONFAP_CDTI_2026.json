@@ -1,0 +1,26 @@
+{
+  "objetivo": "Apoiar projetos colaborativos de pesquisa e inovação tecnológica entre o Brasil e a Espanha, abrangendo qualquer setor de atividade. Destina-se a profissionais vinculados a universidades, centros de pesquisa ou empresas do Espírito Santo que desenvolvam atividades de P,D&I e que apresentem propostas conjuntas com empresas espanholas.",
+  "publico_alvo": "Pesquisadores principais ou coordenadores de projetos, brasileiros ou estrangeiros com visto permanente, residentes no Espírito Santo, com vínculo ativo a universidades, centros de pesquisa ou empresas localizadas no estado do Espírito Santo, que realizem atividades de pesquisa, desenvolvimento e inovação tecnológica e que integrem proposta conjunta com empresa espanhola.",
+  "valor_total": null,
+  "valor_por_proposta": "€ 75.000,00",
+  "contato": "internacional.confap@gmail.com, brasil@cdti.es, carlos.quintana@cdti.es, global4@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Lançamento do edital",
+      "data_inicio": "2026-07-13",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Submissão de propostas",
+      "data_inicio": null,
+      "data_fim": "2026-10-08",
+      "observacao": "Até as 23:59 (horário de Brasília) na plataforma do CONFAP (https://sistema.confap.org.br). Os formulários devem ser preenchidos em língua inglesa.",
+      "acao_do_proponente": true
+    }
+  ],
+  "observacoes_gerais": "A FAPES apoiará um único projeto. Os projetos terão duração de 12 a 36 meses. O apoio financeiro da FAPES destina-se a despesas de capital e custeio, excluindo bolsas, conforme Resolução nº 309/2022. Cada proponente pode submeter apenas uma proposta. A submissão à FAPES (via SigFapes) para contratação ocorrerá somente após a aprovação da proposta pelo CDTI. Os projetos devem ter um orçamento total mínimo de € 250.000,00, e o apoio da FAPES deve corresponder a no mínimo 30% da contrapartida do valor total da proposta.",
+  "_pdf_sha256": "0165a1c882ad3eb7d0aea1425a813f4ab8a1e316643bbc2b909571489a34da7c",
+  "_alteracoes_sha256": []
+}

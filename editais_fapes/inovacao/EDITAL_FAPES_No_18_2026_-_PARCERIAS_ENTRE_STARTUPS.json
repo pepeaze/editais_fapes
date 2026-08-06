@@ -1,9 +1,9 @@
 {
   "objetivo": "Selecionar e apoiar, através de subvenção econômica (recursos não reembolsáveis), startups capixabas que tenham como objetivo celebrar parcerias estratégicas com outras startups do Espírito Santo, nacionais ou internacionais. O edital busca fomentar a expansão do mercado, inovação e avanço tecnológico, aprimoramento de produtos ou serviços, acesso a novos canais ou redes de distribuição, atração de talentos e aprimoramento de competências, posicionamento de marca e mercado, acesso a oportunidades de financiamento ou investimento, e impacto socioambiental sustentável.",
-  "publico_alvo": "Startups (pessoas jurídicas) sediadas no Espírito Santo, com faturamento bruto anual de até R$ 16.000.000,00 e até 10 anos de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ).",
+  "publico_alvo": "Startups (pessoas jurídicas) com faturamento bruto anual de até R$ 16.000.000,00, sediadas no Espírito Santo, e com CNPJ constituído há no mínimo 1 ano e no máximo 10 anos, que atendam aos requisitos do edital.",
   "valor_total": "R$ 9.800.000,00",
-  "valor_por_proposta": "Varia de R$ 120.000,00 a R$ 250.000,00, dependendo da modalidade de parceria (R$ 120.000,00 para Modalidade I, R$ 150.000,00 para Modalidade II, e R$ 250.000,00 para Modalidade III).",
-  "contato": "duvidas.inovacao@fapes.es.gov.br, suporte@fapes.es.gov.br, sucon@fapes.es.gov.br, contacorrente@fapes.es.gov.br, geinov@fapes.es.gov.br",
+  "valor_por_proposta": "Varia por modalidade: R$ 120.000,00 (Modalidade I), R$ 150.000,00 (Modalidade II), R$ 250.000,00 (Modalidade III).",
+  "contato": "duvidas.inovacao@fapes.es.gov.br",
   "cronograma": [
     {
       "evento": "Publicação da Chamada Pública",
@@ -11,6 +11,13 @@
       "data_fim": "2026-06-22",
       "observacao": null,
       "acao_do_proponente": false
+    },
+    {
+      "evento": "Prazo para impugnação do edital",
+      "data_inicio": null,
+      "data_fim": "2026-07-28",
+      "observacao": "Até 5 dias úteis antes da data final de submissão das propostas.",
+      "acao_do_proponente": true
     },
     {
       "evento": "Submissão de propostas",
@@ -22,103 +29,60 @@
     {
       "evento": "Avaliação de habilitação e mérito",
       "data_inicio": "2026-08-05",
-      "data_fim": "2026-10-01",
+      "data_fim": "2026-08-12",
       "observacao": null,
       "acao_do_proponente": false
     },
     {
-      "evento": "Divulgação do resultado preliminar da habilitação e mérito",
-      "data_inicio": "2026-10-02",
+      "evento": "Previsão de publicação do resultado preliminar da habilitação e análise de mérito",
+      "data_inicio": "2026-08-11",
       "data_fim": null,
-      "observacao": "A FAPES poderá antecipar a data de publicação caso a fase de habilitação e análise de mérito seja finalizada antes.",
+      "observacao": "A partir desta data. Caso a fase de habilitação e análise de mérito tenha sido finalizada, a Fapes poderá antecipar a data de publicação.",
       "acao_do_proponente": false
     },
     {
-      "evento": "Interposição de recursos administrativos",
+      "evento": "Prazo de submissão de recursos administrativos",
       "data_inicio": null,
-      "data_fim": null,
-      "observacao": "5 dias úteis a partir da publicação do resultado preliminar da habilitação. O recurso administrativo deverá ser interposto por meio do formulário específico disponível no Sistema de Automação de Fluxos do Governo do Estado (E-Flow): https://fapes.es.gov.br/formularios.",
+      "data_fim": "2026-08-18",
+      "observacao": "5 dias úteis a partir da publicação do resultado preliminar da habilitação.",
       "acao_do_proponente": true
     },
     {
-      "evento": "Divulgação do resultado homologado da habilitação e mérito",
+      "evento": "Previsão de publicação do resultado homologado da habilitação e mérito",
       "data_inicio": "2026-10-27",
       "data_fim": null,
-      "observacao": null,
+      "observacao": "A partir desta data.",
       "acao_do_proponente": false
     },
     {
-      "evento": "Avaliação de documentação para contratação",
+      "evento": "Avaliação das documentações submetidas e contratação das propostas",
       "data_inicio": "2026-10-28",
       "data_fim": null,
-      "observacao": null,
+      "observacao": "A partir desta data.",
       "acao_do_proponente": false
     },
     {
       "evento": "Início da vigência das parcerias contratadas",
       "data_inicio": "2026-12-01",
       "data_fim": null,
-      "observacao": null,
+      "observacao": "A partir desta data.",
       "acao_do_proponente": false
     },
     {
-      "evento": "Constituição de empresa e atualização documental no SIGFAPES",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Para proponentes aprovados. Prazo até as 17h. Abertura da empresa/anexar os documentos no SIGFAPES. Datas são placeholders no edital.",
-      "acao_do_proponente": true
-    },
-    {
-      "evento": "Assinatura do Termo de Outorga e do Projeto Aprovado",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Para proponentes aprovados. Prazo até as 17h. Necessário cadastro no portal 'Acesso Cidadão' e no 'E-DOCS' do Governo do Estado (www.acessocidadao.es.gov.br). Datas são placeholders no edital.",
-      "acao_do_proponente": true
-    },
-    {
-      "evento": "Constituição de empresa e atualização documental no SIGFAPES (Suplentes)",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Para suplentes. Prazo até as 17h. Datas são placeholders no edital.",
-      "acao_do_proponente": true
-    },
-    {
-      "evento": "Assinatura do Termo de Outorga e do Projeto Aprovado (Suplentes)",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Para suplentes. Prazo até as 17h. Datas são placeholders no edital.",
-      "acao_do_proponente": true
-    },
-    {
-      "evento": "Abertura de conta corrente para recebimento de recursos",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "O(a) outorgado(a) terá o prazo de 30 (trinta) dias a partir do início da vigência do Termo de Outorga para informar à Fapes os dados da conta bancária aberta, a contar da data da publicação da contratação do projeto no DIO-ES. A conta deve ser aberta no Banco Banestes.",
-      "acao_do_proponente": true
-    },
-    {
-      "evento": "Prazo de execução das propostas contratadas",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "24 meses, prorrogável por até 12 meses mediante solicitação justificada e aprovação da FAPES.",
-      "acao_do_proponente": false
-    },
-    {
-      "evento": "Prestação de contas parcial",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Até 30 dias após o 12º mês de vigência do Termo de Outorga de Subvenção Econômica.",
-      "acao_do_proponente": true
-    },
-    {
-      "evento": "Prestação de contas final",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Até 30 dias após o prazo de vigência do Termo de Outorga de Subvenção Econômica.",
+      "evento": "Prazo para informar dados da conta bancária",
+      "data_inicio": "2026-12-01",
+      "data_fim": "2026-12-30",
+      "observacao": "30 dias a partir do início da vigência do Termo de Outorga para informar dados da conta bancária aberta no Banco Banestes.",
       "acao_do_proponente": true
     }
   ],
-  "observacoes_gerais": "As datas do cronograma são passíveis de alteração. É responsabilidade do coordenador da parceria acompanhar as atualizações do Edital. É permitido a cada proponente submeter até 2 (duas) propostas de parceria, desde que em modalidades diferentes e com diferentes parceiros. É vedada a submissão de propostas com as mesmas startups alternando funções de proponente e parceira. Propostas com Nota Final inferior a 70 pontos serão desclassificadas. A FAPES não exigirá direitos decorrentes de participação e propriedade nas pesquisas e projetos incentivados. A primeira parcela dos recursos será liberada após a assinatura do Termo de Outorga e comprovação do aporte da contrapartida financeira. A segunda parcela será liberada 30 dias após o 12º mês de execução, mediante prestação de contas parcial, comprovação de 70% de recursos comprometidos/executados e aporte da segunda parcela da contrapartida financeira.",
+  "observacoes_gerais": "As datas do cronograma são passíveis de alteração. É responsabilidade do coordenador da parceria acompanhar as atualizações do Edital no site da FAPES. Cada proponente pode submeter até 2 propostas de parceria, em modalidades diferentes e com parceiros distintos. Propostas com Nota Final inferior a 70 pontos serão desclassificadas. A contratação exige adimplência do coordenador e da empresa com FAPES, Fazendas Públicas (Federal, Estadual, Municipal), Justiça Trabalhista, INSS e FGTS. A primeira parcela será liberada após assinatura e publicação do Termo de Outorga e comprovação do aporte da contrapartida financeira. A segunda parcela será liberada 30 dias após o 12º mês de execução, mediante prestação de contas parcial e comprovação de execução mínima de 70% dos recursos. É obrigatória a referência ao apoio da FAPES em divulgações, exceto em período eleitoral. A FAPES não exigirá direitos de propriedade intelectual decorrentes dos projetos incentivados. Erros de menor relevância na proposta ou documentação podem ser saneados a critério da FAPES, desde que não prejudiquem a avaliação de mérito. Não serão admitidas alterações nos documentos enviados após a submissão da proposta.",
   "_pdf_sha256": "01e91d9549311ea16eab19fef46308ef23e9c165616286740e992e28dbf3d51a",
-  "_alteracoes_sha256": []
+  "_alteracoes_sha256": [
+    {
+      "url": "https://fapes.es.gov.br/Media/fapes/Editais/Chamada%20Pública%20Parcerias%20Startups%202026%20-%20Versão%20Final%20-%201ª%20Alteração..pdf",
+      "titulo": "EDITAL FAPES Nº 18/2026 - PARCERIAS ENTRE STARTUPS (1ª ALTERAÇÃO)",
+      "sha256": "6ed2715b2ee38f4f0577642f6b5f06e8308f80fe76f81813a4a9eb182b06580c"
+    }
+  ]
 }

@@ -1,0 +1,89 @@
+{
+  "objetivo": "O edital Redes de Pesquisa, Desenvolvimento e Inovação (PD&I) em Setores Estratégicos da Fapes tem como finalidade apoiar financeiramente a criação e o fortalecimento de redes que promovam ações coletivas de PD&I. O objetivo geral é selecionar projetos para criar e fortalecer redes estruturantes de PD&I em setores estratégicos e de interesse do Espírito Santo, consolidando grupos de referência em áreas do conhecimento.",
+  "publico_alvo": "Pesquisadores doutores vinculados a Instituições de Ensino Superior e/ou de Pesquisa (IES/P) públicas ou privadas, sediadas no Estado do Espírito Santo, que atuem como coordenadores de propostas.",
+  "valor_total": "R$ 12.000.000,00",
+  "valor_por_proposta": "R$ 1.200.000,00",
+  "contato": "editais.duvidas@fapes.es.gov.br",
+  "cronograma": [
+    {
+      "evento": "Publicação do edital",
+      "data_inicio": "2026-08-06",
+      "data_fim": "2026-08-06",
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Envio de dúvidas sobre o edital",
+      "data_inicio": null,
+      "data_fim": "2026-09-10",
+      "observacao": "Até as 17h59",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Submissão de propostas",
+      "data_inicio": "2026-08-07",
+      "data_fim": "2026-09-14",
+      "observacao": "Até as 17h59, via SigFapes",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado preliminar da habilitação",
+      "data_inicio": "2026-09-24",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Interposição de recursos (habilitação)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Até 5 dias úteis após a divulgação do resultado preliminar da habilitação",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final da habilitação",
+      "data_inicio": "2026-10-23",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Divulgação do resultado preliminar da análise de mérito",
+      "data_inicio": "2026-11-10",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Interposição de recursos (análise de mérito)",
+      "data_inicio": null,
+      "data_fim": null,
+      "observacao": "Até 5 dias úteis após a divulgação do resultado preliminar da análise de mérito",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Divulgação do resultado final da análise de mérito",
+      "data_inicio": "2026-11-27",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Início da contratação dos projetos selecionados",
+      "data_inicio": "2026-12-10",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    },
+    {
+      "evento": "Início da execução dos projetos",
+      "data_inicio": "2027-01-04",
+      "data_fim": null,
+      "observacao": null,
+      "acao_do_proponente": false
+    }
+  ],
+  "observacoes_gerais": "As propostas devem ter prazo de execução de até 36 meses e prever no orçamento 1 bolsista pós-doutorado (POSDOC) e 1 estudante de graduação (ICT). As linhas temáticas incluem: Saúde Única, Saúde de Precisão, Imunobiológicos e Biofármacos, Preservação e Restauração ecológica do bioma da Mata Atlântica, Transformação digital e rastreabilidade ambiental, Economia Circular e Soberania digital e cibersegurança. A equipe executora deve ser exclusiva e composta por no mínimo 7 pesquisadores além do coordenador, com distribuição específica de doutores de diferentes IES/P e um pesquisador de órgão público estadual. Os recursos serão distribuídos garantindo ao menos uma proposta contemplada por linha temática, e as demais por ordem decrescente de nota final. Somente propostas com nota final igual ou superior a 70,0 pontos serão classificadas. Despesas de custeio com serviços de terceiros são limitadas a 30% do valor máximo por proposta. Despesas de capital financiáveis devem ter vida útil superior a dois anos e valor superior a 80 VRTEs. Não são financiáveis mobiliário (exceto se indispensável à pesquisa) e veículos motorizados (exceto se objeto da pesquisa).",
+  "_pdf_sha256": "14f9e41883ee91f7ec670fb1c667f4a85087b629dda79e1ba5bf51abcee6ca8e",
+  "_alteracoes_sha256": []
+}

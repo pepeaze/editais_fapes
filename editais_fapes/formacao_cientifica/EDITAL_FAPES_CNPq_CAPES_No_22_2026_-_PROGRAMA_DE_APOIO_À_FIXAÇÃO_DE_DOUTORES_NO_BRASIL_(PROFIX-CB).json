@@ -1,9 +1,9 @@
 {
-  "objetivo": "O Programa de Apoio à Fixação de Doutores no Brasil – Conhecimento Brasil (PROFIX-CB) é uma iniciativa do CNPq, CAPES e FAPs para atrair, inserir e fixar pesquisadores doutores em instituições de pesquisa, universidades e centros de inovação no país. Seu propósito é criar condições para que o doutor estabeleça uma trajetória científica de médio prazo, contribuindo para a formação de recursos humanos, fortalecimento de programas de pós-graduação, consolidação de grupos de pesquisa e geração de conhecimento e inovação, especialmente em áreas estratégicas para o desenvolvimento científico, tecnológico e de inovação do Espírito Santo.",
-  "publico_alvo": "Pesquisadores doutores (com título obtido há no máximo 10 anos até a data limite de submissão da proposta), residentes no Espírito Santo, sem vínculo empregatício, que atuarão como coordenadores e bolsistas PROFIX-CB em Instituições de Ensino Superior e/ou Pesquisa (IES/P) localizadas no Espírito Santo, com um Programa de Pós-graduação (PPG) parceiro.",
+  "objetivo": "O Programa de Apoio à Fixação de Doutores no Brasil – Conhecimento Brasil (PROFIX-CB) é uma iniciativa do CNPq, CAPES e FAPs para atrair, inserir e fixar pesquisadores doutores em instituições de pesquisa, universidades e centros de inovação no país, especialmente em áreas estratégicas para o desenvolvimento científico, tecnológico e de inovação. O objetivo é apoiar projetos de pesquisa que criem condições para que recém-doutores sem vínculo empregatício desenvolvam uma trajetória científica de médio prazo no Espírito Santo, contribuindo para a formação de recursos humanos, fortalecimento de programas de pós-graduação, consolidação de grupos de pesquisa e geração de conhecimento e inovação, alinhado ao Plano Estadual de CT&I do Espírito Santo (PCTI-ES) 2026–2035.",
+  "publico_alvo": "Pesquisadores doutores com título obtido há no máximo 10 anos, residentes no Espírito Santo durante a execução do projeto, com disponibilidade de 40 horas semanais presenciais, não aposentados, sem vínculo empregatício ou acúmulo de bolsas no momento da contratação e durante as atividades como bolsista PROFIX-CB. Devem estar vinculados a Instituições de Ensino Superior e/ou Pesquisa (IES/P) públicas ou privadas localizadas no Espírito Santo, com registro ativo no Diretório de Instituições do CNPq e anuência do PPG parceiro.",
   "valor_total": "R$ 31.803.200,00",
-  "valor_por_proposta": "R$ 400.000,00",
-  "contato": "bolsas.duvidas@fapes.es.gov.br",
+  "valor_por_proposta": "R$ 400.000,00 (auxílio financeiro da Fapes)",
+  "contato": "bolsas.duvidas@fapes.es.gov.br, sucon@fapes.es.gov.br",
   "cronograma": [
     {
       "evento": "Publicação do edital",
@@ -13,10 +13,17 @@
       "acao_do_proponente": false
     },
     {
-      "evento": "Submissão das propostas",
+      "evento": "Prazo para impugnação do edital",
+      "data_inicio": null,
+      "data_fim": "2026-09-24",
+      "observacao": "até 5 dias úteis anteriores ao encerramento do prazo de submissão das propostas",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Submissão de propostas",
       "data_inicio": null,
       "data_fim": "2026-10-01",
-      "observacao": "Até as 17h59, via Sistema de Informação e Gestão de Projetos da Fapes",
+      "observacao": "até as 17h59",
       "acao_do_proponente": true
     },
     {
@@ -27,10 +34,10 @@
       "acao_do_proponente": false
     },
     {
-      "evento": "Interposição de recursos",
+      "evento": "Interposição de recursos (seleção)",
       "data_inicio": null,
       "data_fim": null,
-      "observacao": "Até 5 dias úteis após a divulgação do resultado preliminar",
+      "observacao": "até 5 dias úteis após a divulgação do resultado preliminar",
       "acao_do_proponente": true
     },
     {
@@ -41,17 +48,10 @@
       "acao_do_proponente": false
     },
     {
-      "evento": "Contratação dos projetos e assinatura do Termo de Outorga",
+      "evento": "Contratação dos projetos",
       "data_inicio": "2027-01-04",
       "data_fim": null,
-      "observacao": "A partir de, via Acesso Cidadão e Sistema de Informação e Gestão de Projetos da Fapes",
-      "acao_do_proponente": true
-    },
-    {
-      "evento": "Envio de dados bancários para recebimento de recursos",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Até 30 dias após a contratação",
+      "observacao": "A partir de",
       "acao_do_proponente": true
     },
     {
@@ -60,44 +60,15 @@
       "data_fim": null,
       "observacao": "A partir de",
       "acao_do_proponente": false
-    },
-    {
-      "evento": "Indicação de bolsistas de mestrado e doutorado (Capes)",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Até 12 meses após o início da vigência do projeto",
-      "acao_do_proponente": true
-    },
-    {
-      "evento": "Prestação de contas parcial",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "A cada 12 meses de vigência do projeto",
-      "acao_do_proponente": true
-    },
-    {
-      "evento": "Prestação de contas final",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Até 30 dias após o término da vigência do Termo de Outorga",
-      "acao_do_proponente": true
-    },
-    {
-      "evento": "Envio de Relatório Técnico da Bolsa PROFIX-CB",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Até 60 dias após o término da vigência do processo CNPq",
-      "acao_do_proponente": true
-    },
-    {
-      "evento": "Envio de Relatório Final de Bolsas de Pós-graduação (Capes)",
-      "data_inicio": null,
-      "data_fim": null,
-      "observacao": "Até 30 dias após o término da bolsa",
-      "acao_do_proponente": true
     }
   ],
-  "observacoes_gerais": "A proposta deve ter cronograma de atividades de 48 meses. O projeto tem vigência de 48 meses. A bolsa PROFIX-CB tem duração de 48 meses. As bolsas de doutorado (Capes) têm duração de até 48 meses, e as de mestrado (Capes) até 24 meses. As bolsas de Iniciação Científica e Tecnológica (Fapes) têm duração de até 12 meses, podendo ser prorrogadas por mais duas vezes. É obrigatório mencionar o apoio da Fapes, CNPq e Capes em todas as publicações e divulgações. Os resultados de propriedade intelectual devem ser comunicados à Fapes. A Fapes abre mão dos direitos de participação e propriedade sobre pesquisas e projetos que apoia, conforme previsto em legislação específica. A convocação de suplentes pode ocorrer por até 24 meses após a divulgação do resultado final. Os anexos do edital estão disponíveis no site da Fapes em 'Editais Abertos'. Dúvidas sobre a chamada devem ser enviadas em até 2 dias antes do término da submissão das propostas.",
+  "observacoes_gerais": "É permitida a participação do mesmo coordenador em Chamadas Públicas PROFIX-CB promovidas por diferentes Fundações de Amparo à Pesquisa. Entretanto, é vedada sua contratação pela Fapes caso tenha sido contratado no âmbito do Programa PROFIX-CB por Fundação de Amparo à Pesquisa de qualquer outra Unidade da Federação ou do Distrito Federal. Constatada, a qualquer tempo, a contratação do coordenador por outra Fundação de Amparo à Pesquisa no âmbito do Programa PROFIX-CB, sua proposta é eliminada desta Chamada e, caso a concessão pela Fapes já tenha sido implementada, é cancelada, sem prejuízo da comunicação ao CNPq, à Capes e à respectiva Fundação de Amparo à Pesquisa para adoção das providências cabíveis. Cada proposta deve contemplar 1 bolsa PROFIX-CB e pode ainda, contemplar: Até 1 bolsa de doutorado (48 meses), Até 1 bolsa de mestrado (24 meses), Até 4 bolsas de Iniciação Científica e Tecnológica (ICT) (12 meses). A bolsa PROFIX-CB é destinada obrigatoriamente ao coordenador do projeto e tem duração de 48 meses. Não é permitida a substituição do bolsista coordenador em caso de cancelamento da bolsa. Os anexos do edital estão disponíveis no site da Fapes (Fapes - Editais Abertos) em formato Word para facilitar a edição pelos proponentes. A prestação de contas parcial deve ser apresentada a cada 12 meses de vigência e a final em até 30 dias após o término da vigência do Termo de Outorga. O coordenador deve encaminhar o Relatório de Execução do Objeto (REO) ao CNPq em até 60 dias após o término da vigência do processo do CNPq. Bolsistas de pós-graduação devem enviar o Relatório Final à Capes em até 30 dias após o término da bolsa. É obrigatório mencionar o apoio da Fapes, CNPq e Capes em todas as publicações e divulgações. A Fapes abre mão dos direitos de participação e propriedade sobre pesquisas e projetos que apoia, conforme Lei Complementar nº 978/2021, mas os resultados econômicos da exploração comercial da criação protegida são partilhados com a Fapes. A convocação de suplentes pode ocorrer em casos de desistência, não contratação ou ampliação de recursos, com validade de 24 meses a contar da divulgação do resultado final. A concessão de adaptações para acessibilidade é avaliada segundo critérios de viabilidade e razoabilidade, mediante solicitação em até 10 dias do término de submissão das propostas.",
   "_pdf_sha256": "5034048febcfcf36bd79e133b5aa8ed14aa9e2751ac02b7b5d29fbf44666c4a6",
-  "_alteracoes_sha256": []
+  "_alteracoes_sha256": [
+    {
+      "url": "https://fapes.es.gov.br/Media/fapes/Editais/Ed.%2022.2026%20PROFIX-CB%20-%201%20Alteração%20-%20Publicada.pdf",
+      "titulo": "EDITAL FAPES/CNPq/CAPES Nº 22/2026 - PROFIX-CB (1ª ALTERAÇÃO)",
+      "sha256": "c3fbbd11a49ca4f2d70e19fa851be21a14f507b584b7780251917cd3e30ec0aa"
+    }
+  ]
 }

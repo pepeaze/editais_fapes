@@ -1,8 +1,8 @@
 {
-  "objetivo": "O objetivo geral deste edital é selecionar projetos que despertem nos estudantes da Rede Pública de Educação Básica do Espírito Santo o interesse pela ciência, pelo desenvolvimento tecnológico e por ações de inovação. O programa apoia financeiramente projetos de pesquisa desenvolvidos em parceria entre escolas públicas de Educação Básica e Instituições de Ensino Superior e/ou de Pesquisa (IES/P) do Espírito Santo. Destina-se a pesquisadores, IES/P, professores e estudantes da Rede Pública de Educação Básica do Estado do Espírito Santo.",
-  "publico_alvo": "Pesquisadores (mínimo mestre) vinculados a Instituições de Ensino Superior e/ou de Pesquisa (IES/P) do Espírito Santo, em parceria com professores e estudantes da Rede Pública de Educação Básica do Estado do Espírito Santo.",
+  "objetivo": "Selecionar projetos que promovam o interesse pela ciência, desenvolvimento tecnológico e inovação em estudantes da Rede Pública de Educação Básica do Espírito Santo. O programa visa incentivar a participação ativa dos estudantes em pesquisa, popularizar a ciência na comunidade escolar, e fortalecer parcerias entre IES/P e escolas públicas para a formação de qualidade e inclusão social.",
+  "publico_alvo": "Pesquisadores (mínimo mestre, com vínculo estatutário ou celetista por tempo indeterminado) vinculados a Instituições de Ensino Superior e/ou de Pesquisa (IES/P) do Espírito Santo.",
   "valor_total": "R$ 8.887.500,00",
-  "valor_por_proposta": "R$ 10.000,00",
+  "valor_por_proposta": null,
   "contato": "bolsas.duvidas@fapes.es.gov.br",
   "cronograma": [
     {
@@ -13,21 +13,28 @@
       "acao_do_proponente": false
     },
     {
-      "evento": "Submissão de propostas",
+      "evento": "Prazo para impugnação do edital",
       "data_inicio": null,
-      "data_fim": "2026-09-09",
-      "observacao": "Até as 17h59",
+      "data_fim": "2026-09-14",
+      "observacao": "Até 5 dias úteis anteriores ao encerramento do prazo de envio das propostas.",
+      "acao_do_proponente": true
+    },
+    {
+      "evento": "Envio da proposta e documentos",
+      "data_inicio": null,
+      "data_fim": "2026-09-21",
+      "observacao": "até as 17h59",
       "acao_do_proponente": true
     },
     {
       "evento": "Divulgação do resultado preliminar de habilitação",
-      "data_inicio": "2026-10-02",
+      "data_inicio": "2026-10-07",
       "data_fim": null,
       "observacao": null,
       "acao_do_proponente": false
     },
     {
-      "evento": "Interposição de recursos (habilitação)",
+      "evento": "Prazo para recorrer",
       "data_inicio": null,
       "data_fim": null,
       "observacao": "Até 5 dias úteis após a divulgação do resultado preliminar de habilitação",
@@ -48,7 +55,7 @@
       "acao_do_proponente": false
     },
     {
-      "evento": "Interposição de recursos (análise de mérito)",
+      "evento": "Prazo para recorrer",
       "data_inicio": null,
       "data_fim": null,
       "observacao": "Até 5 dias úteis após a divulgação do resultado preliminar de análise de mérito",
@@ -69,14 +76,20 @@
       "acao_do_proponente": true
     },
     {
-      "evento": "Início da execução dos projetos",
+      "evento": "Início de execução dos projetos",
       "data_inicio": "2027-03-01",
       "data_fim": null,
       "observacao": null,
       "acao_do_proponente": false
     }
   ],
-  "observacoes_gerais": "O valor total do edital é distribuído por faixas (Educação Ambiental Formal, Práticas de Ciências da Natureza e Matemática, Bairros do Programa Estado Presente, Ampla Concorrência), com possibilidade de transferência de recursos entre elas. Além do auxílio financeiro de R$ 10.000,00 por projeto, são concedidas bolsas para coordenador (BCO), tutor (BTU), iniciação científica e tecnológica (ICT) e iniciação científica júnior (ICJr). Apenas as cinco bolsas de ICJr são obrigatórias. As bolsas BCO, BTU e ICT têm duração de até 10 meses, e as bolsas ICJr, até 9 meses. Os projetos devem ser inéditos para a Fapes. A Fapes abre mão dos direitos de participação e propriedade sobre pesquisas e projetos apoiados, mas os resultados econômicos da exploração comercial de criações protegidas serão partilhados.",
+  "observacoes_gerais": "O coordenador de cada projeto contratado recebe um auxílio financeiro de R$ 10.000,00. Somente as cinco bolsas de Iniciação Científica Júnior (ICJr) são obrigatórias para implementação; as demais modalidades (BCO, BTU e ICT) são opcionais. Os valores mensais das bolsas são definidos na Tabela de Valores de Bolsas e Auxílios da Fapes. Cada coordenador pode apresentar apenas uma proposta. É obrigatório mencionar o apoio da Fapes e Sedu em todas as publicações e divulgações de atividades. É obrigatória a comunicação formal à Fapes sobre criações intelectuais resultantes do projeto e a partilha de resultados econômicos.",
   "_pdf_sha256": "3779e2f10c86956aa0cee006a7a3ad7a21e9227c5bb2c5013205a02f210f776b",
-  "_alteracoes_sha256": []
+  "_alteracoes_sha256": [
+    {
+      "url": "https://fapes.es.gov.br/Media/fapes/Editais/Ed.%2019.2026%20PIC%20JR%202027%20-%201ª%20Alteração%20-%20Publicada.pdf",
+      "titulo": "EDITAL FAPES Nº 19/2026 - PROGRAMA DE INICIAÇÃO CIENTÍFICA JÚNIOR DO ESPÍRITO SANTO - PESQUISADOR DO FUTURO (PIC Jr 2027) - (1ª ALTERAÇÃO)",
+      "sha256": "21790ff8b9e4b44a309423bcae7c811203f846abddf14d7cd6737505bea53c57"
+    }
+  ]
 }

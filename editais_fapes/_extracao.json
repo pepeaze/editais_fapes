@@ -2,20 +2,13 @@
   {
     "categoria": "formacao_cientifica",
     "titulo": "EDITAL FAPES Nº 19/2026 - PIC JR 2027",
-    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/PIC_JR_2027%20-.pdf",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Ed.%2019.2026%20PIC%20JR%202027%20-%201ª%20Alteração%20-%20Publicada.pdf",
     "arquivo_local": "formacao_cientifica/EDITAL_FAPES_No_19_2026_-_PIC_JR_2027.pdf",
-    "pdf_sha256": "3779e2f10c86956aa0cee006a7a3ad7a21e9227c5bb2c5013205a02f210f776b",
-    "alteracoes": [
-      {
-        "url": "https://fapes.es.gov.br/Media/fapes/Editais/Ed.%2019.2026%20PIC%20JR%202027%20-%201ª%20Alteração%20-%20Publicada.pdf",
-        "titulo": "EDITAL FAPES Nº 19/2026 - PROGRAMA DE INICIAÇÃO CIENTÍFICA JÚNIOR DO ESPÍRITO SANTO - PESQUISADOR DO FUTURO (PIC Jr 2027) - (1ª ALTERAÇÃO)",
-        "arquivo_local": "formacao_cientifica/_alteracoes/EDITAL_FAPES_No_19_2026_-_PROGRAMA_DE_INICIAÇÃO_CIENTÍFICA_JÚNIOR_DO_ESPÍRITO_SANTO_-_PESQUISADOR_DO_FUTURO_(PIC_Jr_2027)_-_(1a_ALTERAÇÃO).pdf",
-        "pdf_sha256": "21790ff8b9e4b44a309423bcae7c811203f846abddf14d7cd6737505bea53c57"
-      }
-    ],
+    "pdf_sha256": "21790ff8b9e4b44a309423bcae7c811203f846abddf14d7cd6737505bea53c57",
+    "alteracoes": [],
     "extracao": {
-      "objetivo": "Selecionar projetos que promovam o interesse pela ciência, desenvolvimento tecnológico e inovação em estudantes da Rede Pública de Educação Básica do Espírito Santo. O programa visa incentivar a participação ativa dos estudantes em pesquisa, popularizar a ciência na comunidade escolar, e fortalecer parcerias entre IES/P e escolas públicas para a formação de qualidade e inclusão social.",
-      "publico_alvo": "Pesquisadores (mínimo mestre, com vínculo estatutário ou celetista por tempo indeterminado) vinculados a Instituições de Ensino Superior e/ou de Pesquisa (IES/P) do Espírito Santo.",
+      "objetivo": "O Programa de Iniciação Científica Júnior (PICJr) visa apoiar financeiramente projetos de pesquisa desenvolvidos em parceria entre escolas públicas de Educação Básica e Instituições de Ensino Superior e/ou de Pesquisa (IES/P) do Espírito Santo. O objetivo é aproximar estudantes da rede pública de práticas científicas, sob a orientação de um pesquisador coordenador e a coorientação de um professor tutor, despertando o interesse pela ciência, desenvolvimento tecnológico e inovação.",
+      "publico_alvo": "Pesquisadores (mínimo mestre) vinculados a IES/P do Espírito Santo, professores (tutores) e estudantes da Rede Pública de Educação Básica do Espírito Santo.",
       "valor_total": "R$ 8.887.500,00",
       "valor_por_proposta": null,
       "contato": "bolsas.duvidas@fapes.es.gov.br",
@@ -28,28 +21,21 @@
           "acao_do_proponente": false
         },
         {
-          "evento": "Prazo para impugnação do edital",
-          "data_inicio": null,
-          "data_fim": "2026-09-14",
-          "observacao": "Até 5 dias úteis anteriores ao encerramento do prazo de envio das propostas.",
-          "acao_do_proponente": true
-        },
-        {
-          "evento": "Envio da proposta e documentos",
+          "evento": "Submissão de propostas e documentos",
           "data_inicio": null,
           "data_fim": "2026-09-21",
-          "observacao": "até as 17h59",
+          "observacao": "Até as 17h59",
           "acao_do_proponente": true
         },
         {
           "evento": "Divulgação do resultado preliminar de habilitação",
           "data_inicio": "2026-10-07",
           "data_fim": null,
-          "observacao": null,
+          "observacao": "A partir de",
           "acao_do_proponente": false
         },
         {
-          "evento": "Prazo para recorrer",
+          "evento": "Interposição de recursos (habilitação)",
           "data_inicio": null,
           "data_fim": null,
           "observacao": "Até 5 dias úteis após a divulgação do resultado preliminar de habilitação",
@@ -59,18 +45,18 @@
           "evento": "Divulgação do resultado final de habilitação",
           "data_inicio": "2026-10-26",
           "data_fim": null,
-          "observacao": null,
+          "observacao": "A partir de",
           "acao_do_proponente": false
         },
         {
           "evento": "Divulgação do resultado preliminar de análise de mérito",
           "data_inicio": "2027-01-05",
           "data_fim": null,
-          "observacao": null,
+          "observacao": "A partir de",
           "acao_do_proponente": false
         },
         {
-          "evento": "Prazo para recorrer",
+          "evento": "Interposição de recursos (análise de mérito)",
           "data_inicio": null,
           "data_fim": null,
           "observacao": "Até 5 dias úteis após a divulgação do resultado preliminar de análise de mérito",
@@ -80,33 +66,27 @@
           "evento": "Divulgação do resultado final de análise de mérito",
           "data_inicio": "2027-01-25",
           "data_fim": null,
-          "observacao": null,
+          "observacao": "A partir de",
           "acao_do_proponente": false
         },
         {
           "evento": "Contratação dos projetos selecionados",
           "data_inicio": "2027-02-09",
           "data_fim": null,
-          "observacao": null,
+          "observacao": "A partir de",
           "acao_do_proponente": true
         },
         {
           "evento": "Início de execução dos projetos",
           "data_inicio": "2027-03-01",
           "data_fim": null,
-          "observacao": null,
+          "observacao": "A partir de",
           "acao_do_proponente": false
         }
       ],
-      "observacoes_gerais": "O coordenador de cada projeto contratado recebe um auxílio financeiro de R$ 10.000,00. Somente as cinco bolsas de Iniciação Científica Júnior (ICJr) são obrigatórias para implementação; as demais modalidades (BCO, BTU e ICT) são opcionais. Os valores mensais das bolsas são definidos na Tabela de Valores de Bolsas e Auxílios da Fapes. Cada coordenador pode apresentar apenas uma proposta. É obrigatório mencionar o apoio da Fapes e Sedu em todas as publicações e divulgações de atividades. É obrigatória a comunicação formal à Fapes sobre criações intelectuais resultantes do projeto e a partilha de resultados econômicos.",
-      "_pdf_sha256": "3779e2f10c86956aa0cee006a7a3ad7a21e9227c5bb2c5013205a02f210f776b",
-      "_alteracoes_sha256": [
-        {
-          "url": "https://fapes.es.gov.br/Media/fapes/Editais/Ed.%2019.2026%20PIC%20JR%202027%20-%201ª%20Alteração%20-%20Publicada.pdf",
-          "titulo": "EDITAL FAPES Nº 19/2026 - PROGRAMA DE INICIAÇÃO CIENTÍFICA JÚNIOR DO ESPÍRITO SANTO - PESQUISADOR DO FUTURO (PIC Jr 2027) - (1ª ALTERAÇÃO)",
-          "sha256": "21790ff8b9e4b44a309423bcae7c811203f846abddf14d7cd6737505bea53c57"
-        }
-      ]
+      "observacoes_gerais": "O coordenador de cada projeto contratado recebe um auxílio financeiro de R$ 10.000,00 para desenvolver o projeto de pesquisa, além das bolsas. As modalidades de bolsas incluem uma bolsa de coordenador (BCO), uma de tutor (BTU), uma de iniciação científica e tecnológica (ICT) e cinco de iniciação científica júnior (ICJr), sendo apenas as cinco bolsas de ICJr obrigatórias. A Fapes pode alterar as datas e prazos do cronograma. Cada coordenador pode apresentar apenas uma proposta. A etapa de habilitação é eliminatória. Propostas com nota final inferior a 70 pontos são desclassificadas. É proibido acumular bolsas da Fapes com outras bolsas (exceto as de inclusão social) e não implementar as bolsas de ICJr. É obrigatório mencionar o apoio da Fapes e da Sedu em todas as publicações e divulgações. A Fapes abre mão dos direitos de participação e propriedade sobre pesquisas e projetos que apoia, mas os resultados econômicos da exploração comercial serão partilhados.",
+      "_pdf_sha256": "21790ff8b9e4b44a309423bcae7c811203f846abddf14d7cd6737505bea53c57",
+      "_alteracoes_sha256": []
     }
   },
   {

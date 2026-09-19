@@ -290,6 +290,116 @@
   },
   {
     "categoria": "pesquisa",
+    "titulo": "EDITAL FAPES Nº 21/2026 - REDES DE PESQUISA, DESENVOLVIMENTO E INOVAÇÃO EM SETORES ESTRATÉGICOS",
+    "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital_Fapes_21-2026_-_Redes_de_PDI_em_Setores_Estratégicos-1.pdf",
+    "arquivo_local": "pesquisa/EDITAL_FAPES_No_21_2026_-_REDES_DE_PESQUISA,_DESENVOLVIMENTO_E_INOVAÇÃO_EM_SETORES_ESTRATÉGICOS.pdf",
+    "pdf_sha256": "14f9e41883ee91f7ec670fb1c667f4a85087b629dda79e1ba5bf51abcee6ca8e",
+    "alteracoes": [
+      {
+        "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Fapes%2021-2026%20-%20Redes%20de%20PDI%20em%20Setores%20Estratégicos%20aprovada%201alteração.pdf",
+        "titulo": "EDITAL FAPES Nº 21/2026 - REDES DE PESQUISA, DESENVOLVIMENTO E INOVAÇÃO EM SETORES ESTRATÉGICOS (1ª ALTERAÇÃO)",
+        "arquivo_local": "pesquisa/_alteracoes/EDITAL_FAPES_No_21_2026_-_REDES_DE_PESQUISA,_DESENVOLVIMENTO_E_INOVAÇÃO_EM_SETORES_ESTRATÉGICOS_(1a_ALTERAÇÃO).pdf",
+        "pdf_sha256": "6ef45a93541460f2fca3f71c7e2c94e71de247cc155e466bef98bef127938b62"
+      }
+    ],
+    "extracao": {
+      "objetivo": "Apoiar financeiramente a criação e o fortalecimento de redes de Pesquisa, Desenvolvimento e Inovação (PD&I) em Setores Estratégicos, visando a consolidação de grupos de referência e a geração de conhecimentos e soluções para aplicação em políticas públicas do Espírito Santo.",
+      "publico_alvo": "Pesquisadores doutores vinculados a Instituições de Ensino Superior e/ou de Pesquisa (IES/P) públicas ou privadas, sediadas no Estado do Espírito Santo, com vínculo estatutário ou celetista por tempo indeterminado, que residam no Espírito Santo ou em município limítrofe. As propostas devem ser articuladas com outras instituições científicas e tecnológicas e com a participação de órgão ou instituição que atue na gestão de políticas públicas do Estado.",
+      "valor_total": "R$ 12.000.000,00",
+      "valor_por_proposta": "R$ 1.200.000,00",
+      "contato": "editais.duvidas@fapes.es.gov.br",
+      "cronograma": [
+        {
+          "evento": "Publicação do edital",
+          "data_inicio": "2026-08-06",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Envio da proposta e documentos",
+          "data_inicio": "2026-08-07",
+          "data_fim": "2026-09-21",
+          "observacao": "até as 17h59, via SigFapes",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Prazo para envio de dúvidas",
+          "data_inicio": null,
+          "data_fim": "2026-09-10",
+          "observacao": "até as 17h59",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado preliminar da habilitação",
+          "data_inicio": "2026-09-24",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para recorrer (habilitação)",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Até 5 dias úteis após a divulgação do resultado preliminar da habilitação",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado final de habilitação",
+          "data_inicio": "2026-10-23",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Divulgação do resultado preliminar de análise de mérito",
+          "data_inicio": "2026-11-10",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Prazo para recorrer (análise de mérito)",
+          "data_inicio": null,
+          "data_fim": null,
+          "observacao": "Até 5 dias úteis após a divulgação do resultado preliminar de análise de mérito",
+          "acao_do_proponente": true
+        },
+        {
+          "evento": "Divulgação do resultado final de análise de mérito",
+          "data_inicio": "2026-11-27",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Início da contratação dos projetos selecionados",
+          "data_inicio": "2026-12-10",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        },
+        {
+          "evento": "Início de execução dos projetos",
+          "data_inicio": "2027-01-04",
+          "data_fim": null,
+          "observacao": null,
+          "acao_do_proponente": false
+        }
+      ],
+      "observacoes_gerais": "As propostas devem estar enquadradas em uma das seguintes linhas temáticas: Saúde Única, Saúde de Precisão, Imunobiológicos e Biofármacos, Preservação e Restauração ecológica do bioma da Mata Atlântica, Transformação digital e rastreabilidade ambiental, Economia Circular, Soberania digital e cibersegurança. A distribuição dos recursos priorizará uma proposta por linha temática, e as demais serão selecionadas por ordem decrescente de nota final. Despesas de capital são financiáveis se os bens tiverem vida útil superior a dois anos e valor superior a 80 VRTEs. Mobiliário e veículos motorizados (exceto se objeto da pesquisa) não são financiáveis. É obrigatória a menção do apoio da Fapes em todas as publicações e divulgações relacionadas ao projeto.",
+      "_pdf_sha256": "14f9e41883ee91f7ec670fb1c667f4a85087b629dda79e1ba5bf51abcee6ca8e",
+      "_alteracoes_sha256": [
+        {
+          "url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Fapes%2021-2026%20-%20Redes%20de%20PDI%20em%20Setores%20Estratégicos%20aprovada%201alteração.pdf",
+          "titulo": "EDITAL FAPES Nº 21/2026 - REDES DE PESQUISA, DESENVOLVIMENTO E INOVAÇÃO EM SETORES ESTRATÉGICOS (1ª ALTERAÇÃO)",
+          "sha256": "6ef45a93541460f2fca3f71c7e2c94e71de247cc155e466bef98bef127938b62"
+        }
+      ]
+    }
+  },
+  {
+    "categoria": "pesquisa",
     "titulo": "EDITAL FAPES Nº 24/2026 - PRIMEIROS PROJETOS DE PESQUISA - ESPÍRITO SANTO (PPP-ES)",
     "pdf_url": "https://fapes.es.gov.br/Media/fapes/Editais/Edital%20Fapes%2024-2026%20PPP-ES.pdf",
     "arquivo_local": "pesquisa/EDITAL_FAPES_No_24_2026_-_PRIMEIROS_PROJETOS_DE_PESQUISA_-_ESPÍRITO_SANTO_(PPP-ES).pdf",

@@ -14,7 +14,7 @@
   {
     "categoria": "difusao_do_conhecimento",
     "url": "https://fapes.es.gov.br/difusao-do-conhecimento",
-    "total": 0,
+    "erro": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
     "editais": []
   },
   {
